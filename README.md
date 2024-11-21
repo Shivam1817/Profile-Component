@@ -5,7 +5,8 @@ A mini project to demonstrate the use of **React**, **Recoil**, and **CSS** for 
 ---
 
 ## 📸 Preview
-![Profile Component Preview](![image](https://github.com/user-attachments/assets/dfc4e9c3-0a55-4309-88f7-9a7033e0c6b1))
+![image](https://github.com/user-attachments/assets/8901f1fb-49b4-4cce-8987-885ed52e053c)
+
 
 ---
 
