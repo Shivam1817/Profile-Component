@@ -1,0 +1,56 @@
+/* Profile container styling */
+.profile-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    padding: 20px;
+    background-color: #e0f7fa; /* Background color matching the theme */
+    border-radius: 15px;
+    max-width: 300px;
+    margin: auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Profile image styling */
+.profile-image img {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border: 3px solid #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Name and details */
+.profile-details h2 {
+    font-size: 20px;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+.profile-details p {
+    font-size: 14px;
+    margin: 0;
+    color: #757575;
+}
+
+/* Location text */
+.profile-details h3 {
+    font-size: 16px;
+    margin: 5px 0 15px;
+    color: #00897b;
+}
+
+/* Stats styling */
+.profile-stats {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.profile-stats p {
+    font-size: 14px;
+    margin: 0;
+    color: #333;
+    font-weight: bold;
+}
